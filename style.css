@@ -1,0 +1,45 @@
+body {
+background-color:
+cadetblue;
+border-style: solid;
+border-size:4px;
+border-color:gray;
+}
+h1 {
+  color: navy;
+  margin-left: 475px;
+  font-family:"Impact";
+  font-style:"Bold";
+  font-size: 40px;
+}
+h2 {
+  color: navy;
+  font-family:"Impact";
+  margin-left:100px;
+}
+h3 {
+  color: navy;
+  font-family:"Impact";
+  margin-left:500px;
+}
+p {
+  color: white;
+  font-family:"arial";
+  margin-left:50px;
+}
+table {
+  margin-left: 100px;
+  font-family:"arial";
+  color:white;
+}
+img {
+  margin-left: 375px;
+  borer-style:solid;
+  border-size:3px;
+  border-color:grey;
+}
+a {
+  margin-left:100px;
+  font-family:"Impact";
+  color:grey;
+}
